@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="padding_inputs">16dp</dimen>
+    <dimen name="margin_top">40dp</dimen>
+    <dimen name="margin_top_med">20dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="boton">16dp</dimen>
+    <dimen name="linea">1dp</dimen>
+    <dimen name="paddDrawable">5dp</dimen>
+
+</resources>

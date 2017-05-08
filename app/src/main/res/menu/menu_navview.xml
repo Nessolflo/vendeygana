@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_registrarventa"
+            android:icon="@drawable/ic_registrar_venta"
+            android:title="@string/registrarventa"/>
+        <item
+            android:id="@+id/menu_calatogopremios"
+            android:icon="@drawable/ic_catalogo_premios"
+            android:title="@string/catalogopremios"/>
+        <item
+            android:id="@+id/menu_catalogopromociones"
+            android:icon="@drawable/ic_catalogo_promociones"
+            android:title="@string/catalogopromociones"/>
+        <item
+            android:id="@+id/menu_busquedamodelo"
+            android:icon="@drawable/ic_busqueda_modelo"
+            android:title="@string/busquedapormodelo"/>
+
+        <item
+            android:id="@+id/menu_cerrarsesion"
+            android:icon="@drawable/ic_close_session"
+            android:title="@string/cerrarsesion"/>
+    </group>
+</menu>

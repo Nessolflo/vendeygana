@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Vende y Gana</string>
+    <string name="cargando">Cargando..</string>
+    <string name="esperaunmomento">Espera un momento por favor...</string>
+    <string name="usuario">Usuario</string>
+    <string name="bienvenido">Bienvenido, %1$s</string>
+    <string name="clave">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="camposobligatorios">Todos los campos son obligatorios</string>
+    <string name="usuarioobligatorio">Usuario es obligatorio</string>
+    <string name="claveobligatoria">La clave es obligatoria</string>
+    <string name="conexioninternet">No tienes conexion al servidor, verifica tus datos.</string>
+    <string name="conectandoservidor">Buscando conexión con el servidor...</string>
+    <string name="errorconsultarws">Error al consultar ws, error: %i</string>
+    <string name="errorconsultarwsstring">Error al consultar ws, error: %s</string>
+    <string name="main.menu.action.logout">Cerrar sesión</string>
+    <string name="buscar">Buscar</string>
+    <string name="nombre">Nombre</string>
+    <string name="fechanacimiento">Fecha de nacimiento</string>
+    <string name="dpi">DPI</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+
+    <string name="validaciones.nombre">Debes escribir un nombre.</string>
+    <string name="validaciones.fechanacimiento">La Fecha de nacimiento es obligatoria.</string>
+    <string name="validaciones.dpi">El DPI es obligatorio.</string>
+    <string name="validaciones.telefono">El Teléfono es obligatorio.</string>
+    <string name="validaciones.email">El email debe ser valido y obligatorio.</string>
+    <string name="validaciones.usuario">El usuario es obligatorio.</string>
+    <string name="validaciones.clave">La clave es obligatoria.</string>
+    <string name="validaciones.clave.nocoincide">Las contraseñas no coinciden revisa tus datos.</string>
+    <string name="tips.cambiaranio">Hola, presiona arriba para cambiar el año.</string>
+    <string name="validaciones.imei">IMEI es obligatorio</string>
+    <string name="validaciones.correlativo">Correlativo es obligatorio</string>
+    <string name="validaciones.foto">La fotografía es obligatoria</string>
+
+    <string name="permisos.fotografia">Para enviar tu fotografia, es necesario que aceptes los permisos</string>
+
+    <string name="instruccionesregistro">Bienvenido!, debes llenar estos datos para poder registrarte:</string>
+    <string name="confirmapass">Confirma tu clave</string>
+    <string name="registrarventa">Registrar venta</string>
+    <string name="consultarpuntosacumulados">Puntos acumulados</string>
+    <string name="catalogopremios">Catalogo premios</string>
+    <string name="busquedapormodelo">Busqueda por modelo</string>
+    <string name="catalogopromociones">Catalogo de promociones</string>
+    <string name="help_photo">Presiona la cámara para agregar una fotografía de tu factura</string>
+
+    <string name="validahasta">Valido desde %1$s hasta %2$s  </string>
+    <string name="cantidadpuntos">Puntos: %1s</string>
+
+    <string name="consultandopuntos">Consultando tus puntos..</string>
+    <string name="consultandopremios">Consultando premios disponibles..</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="numero_imei">Escribe el IMEI</string>
+    <string name="correlativo">Escribe el correlativo</string>
+    <string name="borrardatos">Borrar datos</string>
+    <string name="enviar">Enviar</string>
+    <string name="help_photo_2">Presiona la imagen para cambiar la fotografía de tu factura</string>
+    <string name="intentadenuevo">Intenta de nuevo</string>
+    <string name="numero">00</string>
+    <string name="puntos">Puntos</string>
+    <string name="filtrarsegunmispuntos">Filtrar por mis puntos</string>
+    <string name="cerrarsesion">Cerrar Sesión</string>
+</resources>
